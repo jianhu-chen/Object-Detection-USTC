@@ -1,0 +1,20 @@
+item {
+  name: "person"
+  id: 1
+  display_name: "person"
+}
+item {
+  name: "face"
+  id: 2
+  display_name: "face"
+}
+item {
+  name: "red_light"
+  id: 3
+  display_name: "red_light"
+}
+item {
+  name: "green_light"
+  id: 4
+  display_name: "green_light"
+}
